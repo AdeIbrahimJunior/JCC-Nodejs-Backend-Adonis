@@ -10,3 +10,4 @@ var Tugas2 = `${word} ${second} ${third} ${fourth} ${fifth} ${sixth} ${seventh}`
 console.log(Tugas2)
 
 
+
